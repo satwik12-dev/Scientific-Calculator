@@ -1,2 +1,3 @@
 # Scientific-Calculator
 This Scientific Calculator is a basic level java code program in which works on the basic trigo function exponential power etc... 
+In which swing for gui and awt for making the program easier and runable on any system that java development kit
